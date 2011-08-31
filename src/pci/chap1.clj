@@ -1,4 +1,4 @@
-(ns pci.core
+(ns pci.chap1
   ( :use clojure.contrib.math clojure.set
          clojure.contrib.pprint))
 
